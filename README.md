@@ -12,7 +12,6 @@
            width="10%" 
            align="center" 
            valign="middle" 
-           src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social" 
            target="_blank" 
       />
     </a>  
@@ -27,7 +26,7 @@
 <div align="center">
   <a href="https://github.com/fabimhso">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabimhso&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabimhso&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
