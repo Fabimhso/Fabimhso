@@ -6,8 +6,8 @@
   </h1>
   
   <p align="center">
-    I'm Coder, Ethical Hacker & Entrepreneur.
-    <a href="https://www.syintema.com" target="_blank">
+    I'm a Full-Stack Developer.
+    <a href="https://instagram.com/henrikzsilva" target="_blank">
       <img
            width="10%" 
            align="center" 
