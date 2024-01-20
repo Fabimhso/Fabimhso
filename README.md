@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    I'm a Full-Stack Developer.
+    I'm a Full-Stack Java Developer.
     <a href="https://instagram.com/henrikzsilva" target="_blank">
       <img
            width="10%" 
@@ -18,7 +18,7 @@
   </p>
   
   <p align="center">
-    You will find some templates that I will make and mark as public!
+    My great work is develop software and APIs, using all my technical knowledge in Java, Kotlin, and other languages. I also build web applications using React, Redux, JavaScript/TypeScript. Additionally, I develop mobile applications with Java, React-Native, and RESTful and GraphQL APIs.
   </p>
   
 </div>
