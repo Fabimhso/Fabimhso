@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    I'm a Full-Stack Java Developer.
+    I'm a Full-Stack C#/.NET Developer.
     <a href="https://instagram.com/henrikzsilva" target="_blank">
       <img
            width="10%" 
@@ -18,7 +18,7 @@
   </p>
   
   <p align="center">
-    My great work is develop software and APIs, using all my technical knowledge in Java, Kotlin, and other languages. I also build web applications using React, Redux, JavaScript/TypeScript. Additionally, I develop mobile applications with Java, React-Native, and RESTful and GraphQL APIs.
+    My great work is develop software and APIs, using all my technical knowledge in .NET, C#, PHP and other languages. I also build web applications using React, Redux, JavaScript/TypeScript. Additionally, I develop mobile applications with C#, React-Native, and RESTful and GraphQL APIs.
   </p>
   
 </div>
@@ -39,7 +39,7 @@
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
 </div><br>
 
