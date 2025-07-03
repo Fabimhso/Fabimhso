@@ -18,7 +18,7 @@
   </p>
   
   <p align="center">
-    I’m a Ruby developer skilled in building robust and scalable web applications using Ruby on Rails and Sinatra. I specialize in creating APIs, admin panels, web system, MVPs for startups, and automation scripts. With a strong focus on clean code and maintainable architecture, I deliver efficient solutions tailored to client and business needs.
+    I’m a Ruby developer skilled in building robust and scalable web applications using Ruby on Rails and Sinatra. I specialize in creating APIs, admin panels, web system, MVPs for startups, and automation scripts. Also experienced with legacy systems, with knowledge in PHP for maintaining and upgrading legacy codebases.
   </p>
   
 </div>
