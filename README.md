@@ -6,8 +6,8 @@
   </h1>
   
   <p align="center">
-    I'm a Full-Stack C#/.NET Developer.
-    <a href="https://instagram.com/henrikzsilva" target="_blank">
+    I'm a Full-Stack Ruby Developer.
+    <a href="https://instagram.com/fabiirick" target="_blank">
       <img
            width="10%" 
            align="center" 
@@ -18,7 +18,7 @@
   </p>
   
   <p align="center">
-    My great work is develop software and APIs, using all my technical knowledge in .NET, C#, PHP and other languages. I also build web applications using React, Redux, JavaScript/TypeScript. Additionally, I develop mobile applications with C#, React-Native, and RESTful and GraphQL APIs.
+    I’m a Ruby developer skilled in building robust and scalable web applications using Ruby on Rails and Sinatra. I specialize in creating APIs, admin panels, web system, MVPs for startups, and automation scripts. With a strong focus on clean code and maintainable architecture, I deliver efficient solutions tailored to client and business needs.
   </p>
   
 </div>
@@ -31,7 +31,7 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/vuejs.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -39,7 +39,7 @@
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg">
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
 </div><br>
 
