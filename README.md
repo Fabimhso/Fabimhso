@@ -36,10 +36,10 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/rails.svg">
+  <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg">
+  <img align="center" alt="ruby" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg">
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
 </div><br>
 
