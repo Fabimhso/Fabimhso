@@ -43,7 +43,7 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/pytorch-2.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="ruby" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/pandas.svg">
