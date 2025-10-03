@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    I'm a Full-Stack Ruby Developer.
+    I'm a AI Engineer and ML Research student.
     <a href="https://instagram.com/fabiirick" target="_blank">
       <img
            width="10%" 
@@ -18,7 +18,11 @@
   </p>
   
   <p align="center">
-    I’m a Ruby developer skilled in building robust and scalable web applications using Ruby on Rails and Sinatra. I specialize in creating APIs, admin panels, web system, MVPs for startups, and automation scripts. Also experienced with legacy systems, with knowledge in PHP for maintaining and upgrading legacy codebases.
+    I’m an AI and Machine Learning Engineer dedicated to building and researching intelligent systems. My work involves developing and training deep learning models, applying NLP techniques, working with Large Language Models (LLMs), and exploring prompt engineering to enhance AI capabilities. I also design data pipelines for experimentation and production, focusing on bridging academic research with real-world solutions. With experience in cloud technologies such as Google Cloud Platform (GCP), I ensure scalable deployment and optimization of AI-driven applications. Additionally, I develop intelligent software and automation solutions using Python and Scala.
+<strong>Graduating in Computer Science at FESO</strong>
+<strong>Specializing in AI & ML Engineering at the Universidade Federal do Ceará</strong>
+<strong><a href="https://g.dev/fabianooliveira">GCP Certificate:</a> Professional Cloud Architect, Professional Cloud Developer, Professional Data Engineer, Professional Cloud DevOps Engineer, Professional Cloud Network Engineer, Professional Machine Learning Engineer, Professional Google Workspace Administrator, Professional Cloud Database Engineer.</strong>
+    
   </p>
   
 </div>
