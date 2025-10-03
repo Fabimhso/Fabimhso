@@ -48,7 +48,7 @@
   <img align="center" alt="ruby" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg">
   <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/pandas.svg">
   <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/ai.svg">
-  <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
+  <img align="center" alt="php" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg">
 </div><br>
 
 <div align="center">
