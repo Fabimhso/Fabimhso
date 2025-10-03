@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Hey! I'm 
-    <a href="https://www.linkedin.com/in/fabianohenriqueoficial//">Fabiano Oliveira</a>
+    <a href="https://www.linkedin.com/in/fabianooliveiraoficial//">Fabiano Oliveira</a>
   </h1>
   
   <p align="center">
