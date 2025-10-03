@@ -19,7 +19,7 @@
   
   <p align="center">
     I’m an AI and Machine Learning Engineer dedicated to building and researching intelligent systems. My work involves developing and training deep learning models, applying NLP techniques, working with Large Language Models (LLMs), and exploring prompt engineering to enhance AI capabilities. I also design data pipelines for experimentation and production, focusing on bridging academic research with real-world solutions. With experience in cloud technologies such as Google Cloud Platform (GCP), I ensure scalable deployment and optimization of AI-driven applications. Additionally, I develop intelligent software and automation solutions using Python and Scala.
-    <br/><br/>
+    <br/><br/><br/><br/>
 <strong>Graduating in Computer Science at FESO</strong>
     <br/>
 <strong>Specializing in AI & ML Engineering at the Universidade Federal do Ceará</strong>
