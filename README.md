@@ -21,7 +21,9 @@
     I’m an AI and Machine Learning Engineer dedicated to building and researching intelligent systems. My work involves developing and training deep learning models, applying NLP techniques, working with Large Language Models (LLMs), and exploring prompt engineering to enhance AI capabilities. I also design data pipelines for experimentation and production, focusing on bridging academic research with real-world solutions. With experience in cloud technologies such as Google Cloud Platform (GCP), I ensure scalable deployment and optimization of AI-driven applications. Additionally, I develop intelligent software and automation solutions using Python and Scala.
     <br/><br/>
 <strong>Graduating in Computer Science at FESO</strong>
+    <br/>
 <strong>Specializing in AI & ML Engineering at the Universidade Federal do Ceará</strong>
+    <br/>
 <strong><a href="https://g.dev/fabianooliveira">GCP Certificate:</a> Professional Cloud Architect, Professional Cloud Developer, Professional Data Engineer, Professional Cloud DevOps Engineer, Professional Cloud Network Engineer, Professional Machine Learning Engineer, Professional Google Workspace Administrator, Professional Cloud Database Engineer.</strong>
     
   </p>
