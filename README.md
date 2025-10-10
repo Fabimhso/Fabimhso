@@ -24,7 +24,7 @@
     <br/><br/>
 <strong>🤖 Specializing in AI & ML Engineering at the Universidade Federal do Ceará</strong>
     <br/><br/>
-<strong><a href="https://g.dev/fabianooliveira">🧑‍💻 GCP Certificate:</a> Professional Cloud Architect, Professional Cloud Developer, Professional Data Engineer, Professional Cloud DevOps Engineer, Professional Cloud Network Engineer, Professional Machine Learning Engineer, Professional Google Workspace Administrator, Professional Cloud Database Engineer.</strong>
+<strong><a href="https://g.dev/fabianooliveira">🧑‍💻 GCP Certificate:</a> Cloud, Data, AI, ML.</strong>
     
   </p>
   
