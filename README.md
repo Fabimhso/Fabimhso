@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    I'm a AI Engineer and ML Research student.
+    I'm a Full-Stack Ruby Developer.
     <a href="https://instagram.com/fabiirick" target="_blank">
       <img
            width="10%" 
@@ -18,11 +18,11 @@
   </p>
   
   <p align="center">
-    I’m an AI and Machine Learning Engineer dedicated to building and researching intelligent systems. My work involves developing and training deep learning models, applying NLP techniques, working with Large Language Models (LLMs), and exploring prompt engineering to enhance AI capabilities. I also design data pipelines for experimentation and production, focusing on bridging academic research with real-world solutions. With experience in cloud technologies such as Google Cloud Platform (GCP), I ensure scalable deployment and optimization of AI-driven applications. Additionally, I develop intelligent software and automation solutions using Python and Scala.
+    I’m a Ruby developer skilled in building robust and scalable web applications using Ruby on Rails and Sinatra. I specialize in creating APIs, admin panels, web system, MVPs for startups, and automation scripts. Also experienced with legacy systems, with knowledge in PHP for maintaining and upgrading legacy codebases.
     <br/><br/><br/><br/>
 <strong>🎓 Graduating in Computer Science at FESO</strong>
     <br/><br/>
-<strong>🤖 Specializing in AI & ML Engineering at the Universidade Federal do Ceará</strong>
+<strong>🤖 Specializing in AI & ML Engineering at the USP</strong>
     <br/><br/>
 <strong><a href="https://g.dev/fabianooliveira">🧑‍💻 GCP Certificate:</a> Cloud, Data, AI, ML.</strong>
     
@@ -38,17 +38,19 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/pytorch-2.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="ruby" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/pandas.svg">
-  <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/ai.svg">
-  <img align="center" alt="php" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg">
+  <img align="center" alt="ruby" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg">
+  <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg">
+  <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sinatra.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
+  
+  
 </div><br>
 
 <div align="center">
