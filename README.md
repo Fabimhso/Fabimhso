@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    I'm a Full-Stack Ruby Developer.
+    I'm a Software Engineer.
     <a href="https://instagram.com/fabiirick" target="_blank">
       <img
            width="10%" 
@@ -18,13 +18,15 @@
   </p>
   
   <p align="center">
-    I’m a Ruby developer skilled in building robust and scalable web applications using Ruby on Rails and Sinatra. I specialize in creating APIs, admin panels, web system, MVPs for startups, and automation scripts. Also experienced with legacy systems, with knowledge in Sinatra and Node.js.
+    I’m a Software Engineer skilled in building robust and scalable web applications using Ruby and Node.js. I specialize in creating APIs, admin panels, web system, MVPs for startups, and automation scripts. Also legacy systems, with knowledge in Rails and TS.
     <br/><br/><br/><br/>
 <strong>🎓 Graduating in Computer Science at FESO</strong>
     <br/><br/>
 <strong>🤖 Specializing in AI & ML Engineering at the USP</strong>
     <br/><br/>
 <strong><a href="https://g.dev/fabianooliveira">🧑‍💻 GCP Certificate:</a> Cloud, Data, AI, ML.</strong>
+<br/><br/>
+<strong><a href="https://www.linkedin.com/in/fabianooliveiraoficial">🏆 Champion, 2nd place at:</a> FESO Innovation Ideas Award</strong>
     
   </p>
   
@@ -40,8 +42,8 @@
 <div align="center" valign="top"><br>
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="ruby" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg">
-  <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg">
-  <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sinatra.svg">
+  <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+  <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
