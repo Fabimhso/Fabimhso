@@ -16,7 +16,7 @@
       />
     </a>  
   </p>
-  <p align="center">My stack: <strong>React.js, Node.js, Nest.js GCP, Docker, HTML, CSS, JavaScript, TypeScript, PostgreSQL, AI</strong></p>
+  <p align="center">My stack: <strong>React.js, Node.js, Nest.js GCP, Docker, HTML, CSS, JavaScript, TypeScript, PostgreSQL, AI, Ruby</strong></p>
   
   <p align="center">
     I’m a Software Engineer skilled in building robust and scalable web applications using Ruby and Node.js. I specialize in creating APIs, admin panels, web system, MVPs for startups, and automation scripts. Also legacy systems, with knowledge in Rails and TS.
