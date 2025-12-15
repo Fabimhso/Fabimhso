@@ -16,6 +16,7 @@
       />
     </a>  
   </p>
+  <p align="center">My stack: React.js, Node.js, Nest.js GCP, Docker, HTML, CSS, JavaScript, TypeScript, PostgreSQL, AI</p>
   
   <p align="center">
     I’m a Software Engineer skilled in building robust and scalable web applications using Ruby and Node.js. I specialize in creating APIs, admin panels, web system, MVPs for startups, and automation scripts. Also legacy systems, with knowledge in Rails and TS.
@@ -29,8 +30,6 @@
 <strong><a href="https://www.unifeso.edu.br/noticia/index.php?id_not=3610&key=78DD0C06CFB751BA9B38C33E3F8ADA1C0C9E3755">🏆 Champion, 2nd place at:</a> FESO Innovation Ideas Award</strong>
     
   </p>
-
-  <p align="center">My stack: React.js, Node.js, Nest.js GCP, Docker, HTML, CSS, JavaScript, TypeScript, PostgreSQL, AI</p>
   
 </div>
 
