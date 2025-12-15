@@ -24,9 +24,9 @@
     <br/><br/>
 <strong>🤖 Specializing in AI & ML Engineering at the USP</strong>
     <br/><br/>
-<strong><a href="https://g.dev/fabianooliveira">🧑‍💻 GCP Certificate:</a> Cloud, Data, AI, ML.</strong>
+<strong><a href="https://www.skills.google/public_profiles/d6efd537-fa3b-4041-b075-601d96a03904">🏅 GCP Certificate:</a> Cloud, Data, AI, ML.</strong>
 <br/><br/>
-<strong><a href="https://www.linkedin.com/in/fabianooliveiraoficial">🏆 Champion, 2nd place at:</a> FESO Innovation Ideas Award</strong>
+<strong><a href="https://www.unifeso.edu.br/noticia/index.php?id_not=3610&key=78DD0C06CFB751BA9B38C33E3F8ADA1C0C9E3755">🏆 Champion, 2nd place at:</a> FESO Innovation Ideas Award</strong>
     
   </p>
   
