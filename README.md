@@ -20,6 +20,7 @@
   <p align="center">
     I’m a Software Engineer skilled in building robust and scalable web applications using Ruby and Node.js. I specialize in creating APIs, admin panels, web system, MVPs for startups, and automation scripts. Also legacy systems, with knowledge in Rails and TS.
     <br/><br/><br/><br/>
+    <p>My stack: React.js, Node.js, Nest.js GCP, Docker, HTML, CSS, JavaScript, TypeScript, PostgreSQL, AI</p>
 <strong>🎓 Graduating in Computer Science at FESO</strong>
     <br/><br/>
 <strong>🤖 Specializing in AI & ML Engineering at the USP</strong>
