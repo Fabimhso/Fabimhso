@@ -16,7 +16,7 @@
       />
     </a>  
   </p>
-  <p align="center">My stack: <strong>React.js, Node.js, Nest.js GCP, Docker, HTML, CSS, JavaScript, TypeScript, PostgreSQL, AI, Ruby</strong></p>
+  <p align="center">My stack: <strong>React.js, Node.js, Nest.js GCP, Docker, HTML, CSS, JavaScript, TypeScript, PostgreSQL, AI</strong></p>
   
   <p align="center">
     I’m a Software Engineer skilled in building robust and scalable web applications using Ruby and Node.js. I specialize in creating APIs, admin panels, web system, MVPs for startups, and automation scripts. Also legacy systems, with knowledge in Rails and TS.
@@ -42,7 +42,7 @@
 
 <div align="center" valign="top"><br>
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="ruby" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg">
+  <img align="center" alt="ruby" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/nest.svg">
   <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
