@@ -16,7 +16,8 @@
       />
     </a>  
   </p>
-  <p align="center">My stack: <strong>Golang, Python, React.js, Node.js, Nest.js, GCP, Docker, HTML, CSS, JavaScript, TypeScript, PostgreSQL, AI</strong></p>
+  <p align="center">My Stack: <strong>Golang, Python, React.js, Node.js, GCP/AWS, Docker, HTML, CSS, JavaScript, TypeScript, PostgreSQL, AI</strong></p>
+  <p align="center">Frameworks: <strong>Django, Flask, FastAPI, Nest.js, Gin</strong></p>
   
   <p align="center">
     I’m a Software Engineer skilled in building robust and scalable web/ai applications using <strong>Python, Golang and Node.js</strong>. I specialize in creating APIs, web system, MVPs for startups, and automation scripts. Also AI systems, with knowledge in Python. I'm also studying about Web3 & Blockchain systems with Golang/Node.js (ether.js and web3.js)
