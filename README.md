@@ -7,7 +7,7 @@
   
   <p align="center">
     I'm a Software Engineer.
-    <a href="https://instagram.com/fabiirick" target="_blank">
+    <a href="https://instagram.com/imfahik" target="_blank">
       <img
            width="10%" 
            align="center" 
@@ -16,16 +16,16 @@
       />
     </a>  
   </p>
-  <p align="center">My stack: <strong>React.js, Node.js, Nest.js GCP, Docker, HTML, CSS, JavaScript, TypeScript, PostgreSQL, AI</strong></p>
+  <p align="center">My stack: <strong>Golang, Python, React.js, Node.js, Nest.js, GCP, Docker, HTML, CSS, JavaScript, TypeScript, PostgreSQL, AI</strong></p>
   
   <p align="center">
-    I’m a Software Engineer skilled in building robust and scalable web applications using Python, Golang and Node.js. I specialize in creating APIs, web system, MVPs for startups, and automation scripts. Also AI systems, with knowledge in Python.
+    I’m a Software Engineer skilled in building robust and scalable web/ai applications using <strong>Python, Golang and Node.js</strong>. I specialize in creating APIs, web system, MVPs for startups, and automation scripts. Also AI systems, with knowledge in Python. I'm also studying about Web3 & Blockchain systems with Golang/Node.js (ether.js and web3.js)
     <br/><br/><br/><br/>
 <strong>🎓 Graduating in Computer Science at FESO</strong>
     <br/><br/>
 <strong>🤖 Specializing in AI & ML Engineering at the USP</strong>
     <br/><br/>
-<strong><a href="https://www.skills.google/public_profiles/d6efd537-fa3b-4041-b075-601d96a03904">🏅 GCP Certificate:</a> Cloud Developer Professional</strong>
+<strong><a href="https://www.skills.google/public_profiles/d6efd537-fa3b-4041-b075-601d96a03904">🏅 GCP Certificate:</a>GCP Professional Foundations</strong>
 <br/><br/>
 <strong><a href="https://www.unifeso.edu.br/noticia/index.php?id_not=3610&key=78DD0C06CFB751BA9B38C33E3F8ADA1C0C9E3755">🏆 Champion, 2nd place at:</a> FESO Innovative Ideas 2025</strong>
     
