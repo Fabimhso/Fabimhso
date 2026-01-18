@@ -17,10 +17,9 @@
     </a>  
   </p>
   <p align="center">My Stack: <strong>Golang, Python, React.js, Node.js, GCP/AWS, Docker, HTML, CSS, JavaScript, TypeScript, PostgreSQL, AI</strong></p>
-  <p align="center">Frameworks: <strong>Django, Flask, FastAPI, Nest.js, Gin</strong></p>
   
   <p align="center">
-    I’m a Software Engineer skilled in building robust and scalable web/ai applications using <strong>Python, Golang and Node.js</strong>. I specialize in creating APIs, web system, MVPs for startups, and automation scripts. Also AI systems, with knowledge in Python. I'm also studying about Web3 & Blockchain systems with Golang/Node.js (ether.js and web3.js) and Solidity
+    Software Engineer specialized in building robust and scalable Web and AI applications using Python, Golang, and Node.js. With full-stack experience across backend systems, APIs, MVPs for startups, backend AI integrations, frontend (React.js/Next.js), cloud infrastructure (AWS/GCP), backend (Golang, Python, Node.js), GraphQL and gRPC-based services, complex workflow orchestration, DAG visualizations, LLM (Fine-Tuning, RAG, NLU) and AI Specialist (CV, RPA, NLP). Also studying Web3 & Blockchain with Ethers.js, Web3.js, and Solidity.
     <br/><br/><br/><br/>
 <strong>🎓 Graduating in Computer Science at FESO</strong>
     <br/><br/>
