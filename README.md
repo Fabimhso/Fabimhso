@@ -16,7 +16,7 @@
       />
     </a>  
   </p>
-  <p align="center">My Stack: <strong>Golang, Python, React.js, Node.js, GCP/AWS, Docker, HTML, CSS, JavaScript, TypeScript, PostgreSQL, AI</strong></p>
+  <p align="center">My Stack: <strong>Golang, Python, React.js, Node.js, GCP/AWS, Docker, JavaScript/TypeScript, PostgreSQL, AI</strong></p>
   
   <p align="center">
     Software Engineer specialized in building robust and scalable Web and AI applications using Python, Golang, and Node.js. With full-stack experience across backend systems, APIs, MVPs for startups, backend AI integrations, frontend (React.js/Next.js), cloud infrastructure (AWS/GCP), backend (Golang, Python, Node.js), GraphQL and gRPC-based services, complex workflow orchestration, DAG visualizations, LLM (Fine-Tuning, RAG, NLU) and AI Specialist (CV, RPA, NLP). Also studying Web3 & Blockchain with Ethers.js, Web3.js, and Solidity.
