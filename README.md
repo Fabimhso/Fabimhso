@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    I'm a Software Engineer.
+    I'm a Software Engineer. Golang, Python & Node.js Specialist.
     <a href="https://instagram.com/imfahik" target="_blank">
       <img
            width="10%" 
@@ -16,7 +16,6 @@
       />
     </a>  
   </p>
-  <p align="center">Golang, Python & Node.js Specialist</p>
   <p align="center">My Stack: <strong>Golang, Python, React.js, Node.js, GCP/AWS, Docker, JavaScript/TypeScript, PostgreSQL, AI</strong></p>
   
   <p align="center">
