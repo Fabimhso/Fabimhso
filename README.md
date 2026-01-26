@@ -16,7 +16,7 @@
       />
     </a>  
   </p>
-  <p>Golang, Python & Node.js Specialist</p>
+  <p align="center">Golang, Python & Node.js Specialist</p>
   <p align="center">My Stack: <strong>Golang, Python, React.js, Node.js, GCP/AWS, Docker, JavaScript/TypeScript, PostgreSQL, AI</strong></p>
   
   <p align="center">
