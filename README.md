@@ -43,15 +43,23 @@
 <div align="center" valign="top"><br>
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="ruby" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/electron-1.svg">
+  <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
+  <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg">
+  <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/flask.svg">
+  <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/django.svg">
+  <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/golang-1.svg">
   <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
+  <img align="center" alt="rails" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg">
   
   
 </div><br>
