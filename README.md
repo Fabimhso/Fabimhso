@@ -39,8 +39,8 @@
   <a href="https://github.com/fabimhso">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabimhso&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabimhso&theme=dracula&hide_border=false&&layout=compact"/>
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6577726" style='border:none;'></iframe>
   </a>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6577726" style='border:none;'></iframe>
 </div>
 
 <div align="center" valign="top"><br>
