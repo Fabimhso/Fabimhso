@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    I'm a Software Engineer. Golang, Python & Node.js Specialist.
+    Desenvolvedor Node/Python.
     <a href="https://instagram.com/imfahik" target="_blank">
       <img
            width="10%" 
@@ -19,17 +19,16 @@
   <p align="center">My Stack: <strong>Golang, Python, Node.js, React.js, GCP, Docker/Kubernetes, Terraform, Snowflake, JavaScript/TypeScript, PostgreSQL, AI</strong></p>
   
   <p align="center">
-    Full-Stack Software Engineer specialized in building robust and scalable applications (AI, Infra). With full-stack experience across backend systems, APIs, MVPs for startups, backend AI integrations, frontend (React.js/Next.js), cloud infrastructure (AWS/GCP), backend (Golang, Python, Node.js), GraphQL and gRPC-based services, complex workflow orchestration, DAG visualizations, LLM (Fine-Tuning, RAG, NLU) and AI Specialist (CV, RPA, NLP). Solid knowledge in DevOps. Also studying Web3 & Blockchain with Ethers.js, Web3.js, and Solidity.
-    <br/><br/><br/><br/>
-<strong>🎓 Graduating in Computer Science at FESO</strong>
+Desenvolvedor Full-Stack ​​(AI, Infra). Com experiência full-stack em sistemas backend, APIs, MVPs para startups, integrações backend AI, frontend (React.js/Next.js), infraestrutura em nuvem (AWS/GCP), backend (Python, Node.js), serviços baseados em GraphQL e gRPC, orquestração de fluxo de trabalho complexo, visualizações DAG, LLM (Fine-Tuning, RAG, NLU) e especialista em IA (CV, RPA, NLP). Sólidos conhecimentos em DevOps.<br/><br/><br/><br/>
+<strong>🎓 Graduando em Ciência da Computação FESO</strong>
     <br/><br/>
-<strong>🎓 BTech in Computer Networks</strong>
+<strong>🤖 IA & Engenheria de ML na USP</strong>
     <br/><br/>
-<strong>🤖 Specializing in AI & ML Engineering at the USP</strong>
+<strong>🇧🇷 Moro no Brasil</strong>
     <br/><br/>
-<strong><a href="https://www.skills.google/public_profiles/d6efd537-fa3b-4041-b075-601d96a03904">🏅 GCP Certificate:</a>GCP Professional Foundations</strong>
+<strong><a href="https://www.skills.google/public_profiles/d6efd537-fa3b-4041-b075-601d96a03904">🏅 Certificado GCP:</a>GCP Professional Foundations</strong>
 <br/><br/>
-<strong><a href="https://www.unifeso.edu.br/noticia/index.php?id_not=3610&key=78DD0C06CFB751BA9B38C33E3F8ADA1C0C9E3755">🏆 Champion, 2nd place at:</a> FESO Innovative Ideas 2025</strong>
+<strong><a href="https://www.unifeso.edu.br/noticia/index.php?id_not=3610&key=78DD0C06CFB751BA9B38C33E3F8ADA1C0C9E3755">🏆 Campeão, 2nd lugar na:</a> FESO Innovative Ideas 2025</strong>
     
   </p>
   
