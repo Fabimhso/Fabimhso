@@ -16,7 +16,7 @@
       />
     </a>  
   </p>
-  <p align="center">My Stack: <strong>Golang, Python, Node.js, React.js, GCP, Docker/Kubernetes, Terraform, Snowflake, JavaScript/TypeScript, PostgreSQL, AI</strong></p>
+  <p align="center">Minha Stack: <strong>Python, Node.js, React.js, GCP, Docker/Kubernetes, Terraform, Snowflake, JavaScript/TypeScript, PostgreSQL, AI</strong></p>
   
   <p align="center">
 Desenvolvedor Full-Stack ​​(AI, Infra). Com experiência full-stack em sistemas backend, APIs, MVPs para startups, integrações backend AI, frontend (React.js/Next.js), infraestrutura em nuvem (AWS/GCP), backend (Python, Node.js), serviços baseados em GraphQL e gRPC, orquestração de fluxo de trabalho complexo, visualizações DAG, LLM (Fine-Tuning, RAG, NLU) e especialista em IA (CV, RPA, NLP). Sólidos conhecimentos em DevOps.<br/><br/><br/><br/>
