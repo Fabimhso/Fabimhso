@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Desenvolvedor Node/Python.
+    DevOps/DevSecOps/AISec/MLOps.
     <a href="https://instagram.com/imfahik" target="_blank">
       <img
            width="10%" 
@@ -16,13 +16,16 @@
       />
     </a>  
   </p>
-  <p align="center">Minha Stack: <strong>Python, Node.js, React.js, GCP, Docker/Kubernetes, Terraform, Snowflake, JavaScript/TypeScript, PostgreSQL, AI</strong></p>
+  <p align="center">Minha Stack: <strong>Python, Node.js, Bash, Golang, GCP, Docker/Kubernetes, Container, Redes & S.O., PostgreSQL, AI</strong></p>
   
   <p align="center">
-Desenvolvedor Full-Stack ​​(AI, Infra). Com experiência full-stack em sistemas backend, APIs, MVPs para startups, integrações backend AI, frontend (React.js/Next.js), infraestrutura em nuvem (AWS/GCP), backend (Python, Node.js), serviços baseados em GraphQL e gRPC, orquestração de fluxo de trabalho complexo, visualizações DAG, LLM (Fine-Tuning, RAG, NLU) e especialista em IA (CV, RPA, NLP). Sólidos conhecimentos em DevOps.<br/><br/><br/><br/>
+Minha especialidade/estudos hoje é focada em infraestrutura na parte de DevOps, Cybersecurity (DevSecOps, AppSec & Sec para AI-Driven apps), Cloud (GCP) e soluções em IA/ML (MLOps). Também com habilidade em desenvolvimento, aplicações Back-End e microsserviços com integração de IA e Data-Driven, otimização de infraestrutura e observabilidade (GCP, Docker + Kubernetes, Datadog, Prometheus, IaC, Terraform, Snowflake, CI/CD, SQL), experiência usando Linux e Bash, e estudando mais sobre Network (TCP/IP, DNS, NGINX, Cloudflare).<br/><br/><br/><br/>
+    
 <strong>🎓 Graduando em Ciência da Computação FESO</strong>
     <br/><br/>
 <strong>🤖 IA & Engenheria de ML na USP</strong>
+    <br/><br/>
+<strong>👾 Rede & Cybersecurity</strong>
     <br/><br/>
 <strong>🇧🇷 Moro no Brasil</strong>
     <br/><br/>
