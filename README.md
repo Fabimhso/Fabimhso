@@ -21,7 +21,7 @@
   <p align="center">
 Minha especialidade/estudos hoje é focada em infraestrutura na parte de DevOps, Cybersecurity (DevSecOps, AppSec & Sec para AI-Driven apps), Cloud (GCP) e soluções em IA/ML (MLOps). Também com habilidade em desenvolvimento, aplicações Back-End e microsserviços com integração de IA e Data-Driven, otimização de infraestrutura e observabilidade (GCP, Docker + Kubernetes, Datadog, Prometheus, IaC, Terraform, Snowflake, CI/CD, SQL), experiência usando Linux e Bash, e estudando mais sobre Network (TCP/IP, DNS, NGINX, Cloudflare).
     
-    <br/><br/><br/><br/>
+  <br/><br/><br/><br/>
     
 <strong>🎓 Graduando em Ciência da Computação FESO</strong>
     <br/><br/>
