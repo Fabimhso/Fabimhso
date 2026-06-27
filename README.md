@@ -23,17 +23,17 @@ Minha especialidade/estudos hoje é focada em infraestrutura na parte de DevOps,
     
   <br/><br/><br/><br/>
     
-<strong>🎓 Graduando em Ciência da Computação FESO</strong>
-    <br/><br/>
-<strong>🤖 IA & Engenheria de ML na USP</strong>
-    <br/><br/>
-<strong>👾 Rede & Cybersecurity</strong>
-    <br/><br/>
-<strong>🇧🇷 Moro no Brasil</strong>
-    <br/><br/>
-<strong><a href="https://www.skills.google/public_profiles/d6efd537-fa3b-4041-b075-601d96a03904">🏅 Certificado GCP:</a>GCP Professional Foundations</strong>
-<br/><br/>
-<strong><a href="https://www.unifeso.edu.br/noticia/index.php?id_not=3610&key=78DD0C06CFB751BA9B38C33E3F8ADA1C0C9E3755">🏆 Campeão, 2nd lugar na:</a> FESO Innovative Ideas 2025</strong>
+  <strong>🎓 Graduando em Ciência da Computação FESO</strong>
+      <br/><br/>
+  <strong>🤖 IA & Engenheria de ML na USP</strong>
+      <br/><br/>
+  <strong>👾 Rede & Cybersecurity</strong>
+      <br/><br/>
+  <strong>🇧🇷 Moro no Brasil</strong>
+      <br/><br/>
+  <strong><a href="https://www.skills.google/public_profiles/d6efd537-fa3b-4041-b075-601d96a03904">🏅 Certificado GCP:</a>GCP Professional Foundations</strong>
+  <br/><br/>
+  <strong><a href="https://www.unifeso.edu.br/noticia/index.php?id_not=3610&key=78DD0C06CFB751BA9B38C33E3F8ADA1C0C9E3755">🏆 Campeão, 2nd lugar na:</a> FESO Innovative Ideas 2025</strong>
     
   </p>
   
