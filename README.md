@@ -19,23 +19,24 @@
   <p align="center">Minha Stack: <strong>Python, Node.js, Bash, Golang, GCP, Docker/Kubernetes, Container, Redes & S.O., PostgreSQL, AI</strong></p>
   
   <p align="center">
-Minha especialidade/estudos hoje é focada em infraestrutura na parte de DevOps, Cybersecurity (DevSecOps, AppSec & Sec para AI-Driven apps), Cloud (GCP) e soluções em IA/ML (MLOps). Também com habilidade em desenvolvimento, aplicações Back-End e microsserviços com integração de IA e Data-Driven, otimização de infraestrutura e observabilidade (GCP, Docker + Kubernetes, Datadog, Prometheus, IaC, Terraform, Snowflake, CI/CD, SQL), experiência usando Linux e Bash, e estudando mais sobre Network (TCP/IP, DNS, NGINX, Cloudflare).
-    
-  <br/><br/><br/><br/>
-    
-  <strong>🎓 Graduando em Ciência da Computação FESO</strong>
-      <br/><br/>
-  <strong>🤖 IA & Engenheria de ML na USP</strong>
-      <br/><br/>
-  <strong>👾 Rede & Cybersecurity</strong>
-      <br/><br/>
-  <strong>🇧🇷 Moro no Brasil</strong>
-      <br/><br/>
-  <strong><a href="https://www.skills.google/public_profiles/d6efd537-fa3b-4041-b075-601d96a03904">🏅 Certificado GCP:</a>GCP Professional Foundations</strong>
-      <br/><br/>
-  <strong><a href="https://www.unifeso.edu.br/noticia/index.php?id_not=3610&key=78DD0C06CFB751BA9B38C33E3F8ADA1C0C9E3755">🏆 Campeão, 2nd lugar na:</a> FESO Innovative Ideas 2025</strong>
-    
+Minha especialidade/estudos hoje é focada em infraestrutura na parte de DevOps, Cybersecurity (DevSecOps, AppSec & Sec para AI-Driven apps), Cloud (GCP) e soluções em IA/ML (MLOps). Também com habilidade em desenvolvimento, aplicações Back-End e microsserviços com integração de IA e Data-Driven, otimização de infraestrutura e observabilidade (GCP, Docker + Kubernetes, Datadog, Prometheus, IaC, Terraform, Snowflake, CI/CD, SQL), experiência usando Linux e Bash, e estudando mais sobre Network (TCP/IP, DNS, NGINX, Cloudflare).<br/><br/><br/><br/>
   </p>
+
+  <p align="center">    
+<strong>🎓 Graduando em Ciência da Computação FESO</strong>
+      <br/><br/>
+<strong>🤖 IA & Engenheria de ML na USP</strong>
+      <br/><br/>
+<strong>👾 Rede & Cybersecurity</strong>
+      <br/><br/>
+<strong>🇧🇷 Moro no Brasil</strong>
+      <br/><br/>
+<strong><a href="https://www.skills.google/public_profiles/d6efd537-fa3b-4041-b075-601d96a03904">🏅 Certificado GCP:</a>GCP Professional Foundations</strong>
+      <br/><br/>
+<strong><a href="https://www.unifeso.edu.br/noticia/index.php?id_not=3610&key=78DD0C06CFB751BA9B38C33E3F8ADA1C0C9E3755">🏆 Campeão, 2nd lugar na:</a> FESO Innovative Ideas 2025</strong>
+  </p>
+
+  <br/><br/>
   
 </div>
 
