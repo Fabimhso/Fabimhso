@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    DevOps/DevSecOps/AISec/MLOps.
+    DevOps Software Engineer
     <a href="https://instagram.com/imfahik" target="_blank">
       <img
            width="10%" 
@@ -16,7 +16,7 @@
       />
     </a>  
   </p>
-  <p align="center">Minha Stack: <strong>Python, Node.js, Bash, Golang, GCP, Docker/Kubernetes, Container, Redes & S.O., PostgreSQL, AI</strong></p>
+  <p align="center">Minha Stack: <strong>Python, Node.js, Bash, GCP, Docker/Kubernetes, Container, Redes & S.O., PostgreSQL, AI</strong></p>
   
   <p align="center">
 Minha especialidade/estudos hoje é focada em infraestrutura na parte de DevOps, Cybersecurity (DevSecOps, AppSec & Sec para AI-Driven apps), Cloud (GCP) e soluções em IA/ML (MLOps). Também com habilidade em desenvolvimento, aplicações Back-End e microsserviços com integração de IA e Data-Driven, otimização de infraestrutura e observabilidade (GCP, Docker + Kubernetes, Datadog, Prometheus, IaC, Terraform, Snowflake, CI/CD, SQL), experiência usando Linux e Bash, e estudando mais sobre Network (TCP/IP, DNS, NGINX, Cloudflare).<br/><br/><br/><br/>
@@ -27,7 +27,7 @@ Minha especialidade/estudos hoje é focada em infraestrutura na parte de DevOps,
       <br/><br/>
 <strong>🤖 IA & Engenheria de ML na USP</strong>
       <br/><br/>
-<strong>👾 Rede & Cybersecurity</strong>
+<strong>👾 Infra, DevOps, DevSecOps</strong>
       <br/><br/>
 <strong>🇧🇷 Moro no Brasil</strong>
       <br/><br/>
