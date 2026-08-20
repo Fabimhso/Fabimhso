@@ -16,10 +16,10 @@
       />
     </a>  
   </p>
-  <p align="center">My Stack: <strong>Python, Node.js, Bash, GCP, Docker/Kubernetes, Container, Redes & S.O., PostgreSQL, AI</strong></p>
+  <p align="center">My Stack: <strong>Python, Node.js, Bash, GCP, Docker/Kubernetes, Container, Networkings & O.S., PostgreSQL, AI</strong></p>
   
   <p align="center">
-My current specialization and studies focus on infrastructure—specifically DevOps, DevSecOps (Infrastructure/Security), Cloud (GCP), and AI/ML solutions (MLOps). I also possess skills in development, back-end applications, and microservices—including AI integration and data-driven approaches—as well as infrastructure optimization and observability (GCP, Docker + Kubernetes, Datadog, Prometheus, IaC, Terraform, Snowflake, CI/CD, SQL). I have experience with Linux and Bash and am currently deepening my knowledge of networking (TCP/IP, DNS, NGINX, Cloudflare).  </p>
+My current specialization and studies focus on infrastructure—specifically DevOps, DevSecOps (Infrastructure/Security), Cloud (GCP), and AI/ML solutions (MLOps). I also possess skills in development, back-end applications, and microservices, including AI integration and data-driven approaches, as well as infrastructure optimization and observability (GCP, Docker + Kubernetes, Datadog, Prometheus, IaC, Terraform, Snowflake, CI/CD, SQL). I have experience with Linux and Bash and am currently deepening my knowledge of networking (TCP/IP, DNS, NGINX, Cloudflare).</p>
 
   <p align="center">    
 <strong>🎓 Undergraduate in Computer Science at FESO</strong>
