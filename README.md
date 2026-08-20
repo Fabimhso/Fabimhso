@@ -16,24 +16,24 @@
       />
     </a>  
   </p>
-  <p align="center">Minha Stack: <strong>Python, Node.js, Bash, GCP, Docker/Kubernetes, Container, Redes & S.O., PostgreSQL, AI</strong></p>
+  <p align="center">My Stack: <strong>Python, Node.js, Bash, GCP, Docker/Kubernetes, Container, Redes & S.O., PostgreSQL, AI</strong></p>
   
   <p align="center">
-Minha especialidade/estudos hoje é focada em infraestrutura na parte de DevOps e Infraestrutura/Segurança (DevSecOps), Cloud (GCP) e soluções em IA/ML (MLOps). Também com habilidade em desenvolvimento, aplicações Back-End e microsserviços com integração de IA e Data-Driven, otimização de infraestrutura e observabilidade (GCP, Docker + Kubernetes, Datadog, Prometheus, IaC, Terraform, Snowflake, CI/CD, SQL), experiência usando Linux e Bash, e estudando mais sobre Network (TCP/IP, DNS, NGINX, Cloudflare).<br/><br/><br/><br/>
+My specialization/studies today are focused on infrastructure in the areas of DevOps and Infrastructure/Security (DevSecOps), Cloud (GCP) and AI/ML (MLOps) solutions. I also have skills in software development and automation.
   </p>
 
   <p align="center">    
-<strong>🎓 Graduando em Ciência da Computação FESO</strong>
+<strong>🎓 Undergraduate in Computer Science at FESO</strong>
       <br/><br/>
-<strong>🤖 IA & Engenheria de ML na USP</strong>
+<strong>🤖 AI & ML Engineering at USP</strong>
       <br/><br/>
-<strong>👾 Infra, DevOps, DevSecOps</strong>
+<strong>👾 Infrastructure, DevOps, DevSecOps</strong>
       <br/><br/>
-<strong>🇧🇷 Moro no Brasil</strong>
+<strong>🇧🇷 I live in Brazil</strong>
       <br/><br/>
-<strong><a href="https://www.skills.google/public_profiles/d6efd537-fa3b-4041-b075-601d96a03904">🏅 Certificado GCP:</a>GCP Professional Foundations</strong>
+<strong><a href="https://www.skills.google/public_profiles/d6efd537-fa3b-4041-b075-601d96a03904">🏅 GCP Certificate:</a> GCP Professional Foundations</strong>
       <br/><br/>
-<strong><a href="https://www.unifeso.edu.br/noticia/index.php?id_not=3610&key=78DD0C06CFB751BA9B38C33E3F8ADA1C0C9E3755">🏆 Campeão, 2nd lugar na:</a> FESO Innovative Ideas 2025</strong>
+<strong><a href="https://www.unifeso.edu.br/noticia/index.php?id_not=3610&key=78DD0C06CFB751BA9B38C33E3F8ADA1C0C9E3755">🏆 2nd place at:</a> FESO Innovative Ideas 2025</strong>
   </p>
 
   <br/><br/>
@@ -72,7 +72,7 @@ Minha especialidade/estudos hoje é focada em infraestrutura na parte de DevOps 
 
 <div align="center">
   <a href="www.instagram.com/f4h1k/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fabianooliveiraoficial/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/fabianooliveiraoficial/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_b[...]"
   <a href="mailto:hsofabi05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
