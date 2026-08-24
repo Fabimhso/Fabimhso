@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-          ====  DevOps Software Engineer  ====
+            DevOps Software Engineer  
     <a href="https://instagram.com/imfahik" target="_blank">
       <img
            width="10%" 
