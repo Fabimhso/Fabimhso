@@ -8,6 +8,14 @@
   <p align="center">
             DevOps Software Engineer  
   </p>
+      <a href="https://instagram.com/imfahik" target="_blank">
+      <img
+           width="10%" 
+           align="center" 
+           valign="middle" 
+           target="_blank" 
+      />
+    </a>  
   <p align="center">My Stack: <strong>Python, Node.js, Bash, GCP, Docker/Kubernetes, Container, Networkings & O.S., PostgreSQL, AI</strong></p>
   
   <p align="center">
