@@ -5,12 +5,6 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,45:1f6feb,100:7ee787&text=Fabiano%20Oliveira&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Data%20%C2%B7%20ML%20%C2%B7%20AI%20Engineer%20%7C%20Computer%20Vision&descAlignY=60&descSize=18&animation=fadeIn" alt="Fabiano Oliveira — Data, ML & AI Engineer" width="100%"/>
-
-<a href="https://alnitak.online/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7EE787&center=true&vCenter=true&width=720&lines=Engenheiro+de+Dados+%7C+ML+%7C+IA;Especialista+em+Vis%C3%A3o+Computacional+%F0%9F%91%81%EF%B8%8F;Fundador+%26+CEO+%40+Alnitak+AI;Devolvendo+autonomia+atrav%C3%A9s+do+eye-tracking" alt="Typing SVG" />
-</a>
-
   <img src="./assets/hero.svg" width="100%" alt="Fabiano Oliveira — Data, Machine Learning and AI Engineer. Computer vision, cloud and human-centered AI." />
 
   <br />
