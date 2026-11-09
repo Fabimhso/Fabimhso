@@ -1,8 +1,6 @@
 <!--
   FABIANO OLIVEIRA — GitHub Profile README
   Palette: #0B1122 / #65EEE2 / #A28BFF
-  Place this README.md in the repository named exactly after your GitHub username.
-  Keep the assets/ directory next to the README.md so the artwork continues to render.
 -->
 
 <div align="center">
