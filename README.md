@@ -31,7 +31,7 @@ My work connects applied research, data-driven engineering, machine learning and
 - ☁️ **Engineering:** cloud platforms, scalable infrastructure, containers and APIs
 - 🪐 **Founder & CEO:** [Alnitak AI](https://alnitak.online/)
 - 🦁 **Founder:** [New Day Winmont](https://newdaywinmont.site/)
-- 💻 **Founder:** [Inkoded Bytes](https://inkodedbytes.site/)
+- 💻 **Founder:** [Inkoded Bytes](https://inkodedbytes.online/)
 - ▶️ **YouTube Channel:** [Fahik](https://youtube.com/@ImFahik/)
 - 🏪 **My Store:** [Fahik Store](https://fahik.store/)
 - 🌐 **My Personal Website:** [Fahik Oliveira](https://fahikoliveira.site/)
